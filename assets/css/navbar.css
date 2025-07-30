@@ -35,6 +35,11 @@ a {
   position: fixed;
   top: 0;
   left: 0;
+  background: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+  backdrop-filter: blur(10px); /* blur the background behind */
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
+  color: white; /* optional - white text for contrast */
+  
   right: 0;
   z-index: 1000;
 }

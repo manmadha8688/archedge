@@ -100,7 +100,7 @@ body{
   padding: 18px 40px;
   font-size: 1.3rem;
   border-radius: 50px;
-  background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1);
+  background: linear-gradient(45deg, #0a9bb2, #318580, #9f10b5);
   color: #fff;
   text-decoration: none;
   box-shadow: 0 8px 25px rgba(255,107,107,0.4);
@@ -127,7 +127,7 @@ body{
 }
 
 .btn.btn-primary:hover {
-  background: linear-gradient(45deg, #4ecdc4, #45b7d1, #ff6b6b);
+  background: linear-gradient(45deg, #861380, #296d7c, #138b9a);
   transform: translateY(-3px);
   box-shadow: 0 15px 35px rgba(255,107,107,0.6);
 }
